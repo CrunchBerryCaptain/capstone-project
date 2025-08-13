@@ -1,4 +1,4 @@
-To run the hangman script for yourself, simply pull this repo to your local machine.
+To run the hangman script for yourself, simply clone this repo to your local machine.
 
 Make sure you have Python3 installed, then run the following > python3 hangman.py
 
